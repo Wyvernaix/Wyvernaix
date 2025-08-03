@@ -32,6 +32,7 @@
 
 ## 👋 About me
 <p align="left">
+    I develop <s>sometimes</s> games, websites and softwares
   <!--✨ Creating bugs since ...<br>
   📚 I'm currently learning ...<br>
   🎯 Goals: ...<br>
@@ -39,9 +40,10 @@
 </p>
 <br>
 
-<!-- Relevant Projects & Works-->
+<!-- Relevant Projects & Works
 ## 💼 Projects
 
 <br>
 
 <hr>
+-->

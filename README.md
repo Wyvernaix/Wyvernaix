@@ -5,7 +5,7 @@
 </div>
 
 <h1 align="center">Wyvern</h1>
-<p align="center">Casual Developer</p>
+<p align="center">I develop <s>sometimes</s></p>
 <!--
 <p align="center">
     <a href="https://dragongod65.itch.io/">
@@ -26,18 +26,18 @@
     <a href="https://www.youtube.com/@DragonGod65">
     <img alt="YouTube" src="https://img.shields.io/badge/YouTube-Wyvern?style=for-the-badge&logo=youtube&logoColor=ff0808&labelColor=white&color=ff0808&link=https%3A%2F%2Fwww.youtube.com%2F%40DragonGod65">
     </a>
-</p>-->
-
+</p>
+--><!--
 <hr>
-
+--><!--
 <p align="left">
     I develop <s>sometimes</s>
   <!--✨ Creating bugs since ...<br>
   📚 I'm currently learning ...<br>
   🎯 Goals: ...<br>
   🎲 Fun fact: ...-->
-</p>
-<br>
+<!--</p>
+<br> -->
 
 <!-- Relevant Projects & Works
 ## 💼 Projects

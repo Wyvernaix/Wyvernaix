@@ -6,7 +6,7 @@
 
 <h1 align="center">Wyvern</h1>
 <p align="center">Casual Developer</p>
-
+<!--
 <p align="center">
     <a href="https://dragongod65.itch.io/">
         <img alt="Itch.io" src="https://img.shields.io/badge/ItchIO-Wyvern?style=for-the-badge&logo=itch.io&logoColor=fa5c5c&labelColor=white&color=fa5c5c&link=https%3A%2F%2Fdragongod65.itch.io">
@@ -26,13 +26,12 @@
     <a href="https://www.youtube.com/@DragonGod65">
     <img alt="YouTube" src="https://img.shields.io/badge/YouTube-Wyvern?style=for-the-badge&logo=youtube&logoColor=ff0808&labelColor=white&color=ff0808&link=https%3A%2F%2Fwww.youtube.com%2F%40DragonGod65">
     </a>
-</p>
+</p>-->
 
 <hr>
 
-## 👋 About me
 <p align="left">
-    I develop <s>sometimes</s> games, websites and softwares
+    I develop <s>sometimes</s>
   <!--✨ Creating bugs since ...<br>
   📚 I'm currently learning ...<br>
   🎯 Goals: ...<br>
